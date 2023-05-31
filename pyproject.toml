@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "erg"
-"Bug Tracker" = "ergerg"
+"Homepage" = "https://github.com/dalygbarron/tabitha"
+"Bug Tracker" = "https://github.com/dalygbarron/tabitha/issues"
