@@ -1,5 +1,6 @@
 # Tabitha
-![alt text](Saint_Tabitha.jpg "Saint Tabitha - image couresy of https://commons.wikimedia.org/wiki/User:Wolfymoza under CC-SA 4")
+![alt text](Saint_Tabitha.jpg "Saint Tabitha - image couresy of
+https://commons.wikimedia.org/wiki/User:Wolfymoza under CC-SA 4")
 
 A blender spritesheet renderer that works from the commandline and leaves as
 much configuration as possible in their usual places inside blender.
@@ -9,6 +10,11 @@ whatever animation you have configured inside that scene, then appends all of
 the frames into a single image file. It can either operate on a single scene
 within the file, or it can operate on all of them. The final outputs are named
 after the scenes that they are renders of.
+
+## Installation
+Just get tabitha.py on your path somewhere, or reference it directly if you
+want. I guess you could add an alias too if you like. The only part you actually
+need is tabitha.py.
 
 ## Examples
 You wanna render all scenes in the file to the current directory:
